@@ -34,3 +34,11 @@ Estudante de tecnologia, com foco em aprender na prática. Participo de projetos
 - **Programação:** C e lógica de programação
 - **Dados:** modelagem relacional, normalização e SQL
 - **Práticas:** Git e GitHub, testes automáticos, CI/CD, Scrum e trabalho em equipe
+
+
+## Contato
+
+<p>
+  <a href="https://www.linkedin.com/in/wendel-andrioli-de-melo-278057303/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:fdswendel3@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+</p>
